@@ -24,4 +24,10 @@ The script can be stored somewhere locally and is run as a command line program.
 
 -> The uploaded measurement protocols are examples only and show the general structure
 
+#### Visualization:
+
 ![](/slides/slide_01.JPG)
+![](/slides/slide_02.JPG)
+![](/slides/slide_03.JPG)
+![](/slides/slide_04.JPG)
+![](/slides/slide_05.JPG)
