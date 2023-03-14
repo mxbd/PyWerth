@@ -23,3 +23,5 @@ The script can be stored somewhere locally and is run as a command line program.
 - output_path: Path to directory where output.csv should be saved
 
 -> The uploaded measurement protocols are examples only and show the general structure
+
+![](/slides/slide_01.jpg)
